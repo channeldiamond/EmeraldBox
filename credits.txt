@@ -1,0 +1,27 @@
+╔═══╗╔═══╗╔═══╗╔═══╗╔══╗╔════╗╔═══╗
+║╔═╗║║╔═╗║║╔══╝╚╗╔╗║╚╣╠╝║╔╗╔╗║║╔═╗║
+║║ ╚╝║╚═╝║║╚══╗ ║║║║ ║║ ╚╝║║╚╝║╚══╗
+║║ ╔╗║╔╗╔╝║╔══╝ ║║║║ ║║   ║║  ╚══╗║
+║╚═╝║║║║╚╗║╚══╗╔╝╚╝║╔╣╠╗ ╔╝╚╗ ║╚═╝║
+╚═══╝╚╝╚═╝╚═══╝╚═══╝╚══╝ ╚══╝ ╚═══╝
+                                   
+-----------------------------------
+
+Duncan E. Day - Main Developer
+
+YourLocalYuuri - Developer
+
+BartG1014 - Developer
+
+YourLocalSunny (TheByteSunny) - Developer
+
+Earth.bsp - Developer
+
+maksw - Developer
+
+cascadefr223 - Contributor
+
+Inflesi - Contributor
+
+Dope - Contributor
+
